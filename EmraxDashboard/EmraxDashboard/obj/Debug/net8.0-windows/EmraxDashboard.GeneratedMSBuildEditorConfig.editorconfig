@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmraxDashboard
-build_property.ProjectDir = Z:\2024 Files\EV\EV motor capstone\GUI\EmraxDashboard\EmraxDashboard\
+build_property.ProjectDir = Z:\2024 Files\EV\EV motor capstone\GUI\DashboardProject\ElectricMotorTelemetryDashboard\EmraxDashboard\EmraxDashboard\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

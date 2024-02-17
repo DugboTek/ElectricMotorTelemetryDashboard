@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("EmraxDashboard"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a3e01cc2bdecfe99970e072f241052df7d1e694"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("EmraxDashboard"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("EmraxDashboard"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

@@ -170,7 +170,7 @@ Public Class Form1
         ChartTemperature.Series("Temperature").Points.AddXY(xAxisValue, temperatureValue)
 
         ' Set the minimum and maximum values for the X-axis to control scrolling
-        ChartTemperature.ChartAreas(0).AxisX.Minimum = xAxisValue - ChartLimit + 1
+        ChartTemperature.ChartAreas(0).AxisX.Minimum = xAxisValue - ChartLimit + 1.0
         ChartTemperature.ChartAreas(0).AxisX.Maximum = xAxisValue + 1
 
         ' Set the minimum and maximum values for the Y-axis to provide a more responsive display

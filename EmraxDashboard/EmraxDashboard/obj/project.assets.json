@@ -5761,11 +5761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\2024 Files\\EV\\EV motor capstone\\GUI\\EmraxDashboard\\EmraxDashboard\\EmraxDashboard.vbproj",
+      "projectUniqueName": "Z:\\2024 Files\\EV\\EV motor capstone\\GUI\\DashboardProject\\ElectricMotorTelemetryDashboard\\EmraxDashboard\\EmraxDashboard\\EmraxDashboard.vbproj",
       "projectName": "EmraxDashboard",
-      "projectPath": "Z:\\2024 Files\\EV\\EV motor capstone\\GUI\\EmraxDashboard\\EmraxDashboard\\EmraxDashboard.vbproj",
+      "projectPath": "Z:\\2024 Files\\EV\\EV motor capstone\\GUI\\DashboardProject\\ElectricMotorTelemetryDashboard\\EmraxDashboard\\EmraxDashboard\\EmraxDashboard.vbproj",
       "packagesPath": "C:\\Users\\sdugb\\.nuget\\packages\\",
-      "outputPath": "Z:\\2024 Files\\EV\\EV motor capstone\\GUI\\EmraxDashboard\\EmraxDashboard\\obj\\",
+      "outputPath": "Z:\\2024 Files\\EV\\EV motor capstone\\GUI\\DashboardProject\\ElectricMotorTelemetryDashboard\\EmraxDashboard\\EmraxDashboard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sdugb\\AppData\\Roaming\\NuGet\\NuGet.Config",
